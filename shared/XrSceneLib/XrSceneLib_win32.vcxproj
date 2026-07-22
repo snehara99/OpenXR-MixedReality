@@ -40,8 +40,7 @@
     <ProjectGuid>{A758AF22-F54F-4C74-BF85-05A377B5892E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>XrSceneLib_win32</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
-    <ProjectName>XrSceneLib_win32</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>    <ProjectName>XrSceneLib_win32</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Label="Configuration">

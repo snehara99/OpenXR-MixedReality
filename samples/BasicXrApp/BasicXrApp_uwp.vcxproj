@@ -45,8 +45,7 @@
     <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
     <AppContainerApplication>true</AppContainerApplication>
     <ApplicationType>Windows Store</ApplicationType>
-    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
-    <AppxOSMinVersionReplaceManifestVersion>false</AppxOSMinVersionReplaceManifestVersion>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>    <AppxOSMinVersionReplaceManifestVersion>false</AppxOSMinVersionReplaceManifestVersion>
     <ApplicationTypeRevision>10.0</ApplicationTypeRevision>
     <PackageCertificateThumbprint>D512248F114C731E8375743820EC1D51A6ADA14E</PackageCertificateThumbprint>
     <PackageCertificateKeyFile>TemporaryKey.pfx</PackageCertificateKeyFile>

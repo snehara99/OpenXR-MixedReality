@@ -19,7 +19,6 @@
 #define WIN32_LEAN_AND_MEAN
 #define NOMINMAX
 #include <windows.h>
-#include <mbnapi.h>
 
 #include <d3d11.h>
 

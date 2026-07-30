@@ -12,8 +12,10 @@ constexpr const char* ProgramName = "BasicXrApp_uwp";
 #endif
 
 int __stdcall wWinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPWSTR, _In_ int) {
-    int swpNone = 0;
-    (void)swpNone;
+    IMbnInterface* deprecatedInterface = nullptr;
+    (void)deprecatedInterface;
+    int SWP_NONE = 0;
+    (void)SWP_NONE;
 
     try {
         auto graphics = sample::CreateCubeGraphics();
